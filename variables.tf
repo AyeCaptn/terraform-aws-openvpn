@@ -42,3 +42,4 @@ variable "ebs_size" {
 variable "ami" {
   description = "AMI ID to use for the EC2 instance"
 }
+
